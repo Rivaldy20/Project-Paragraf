@@ -1,0 +1,1 @@
+Faktanya, kalau kita benar-benar melakukan pair programming dengan baik dan fokus, kita akan merasa lelah. Pertama, otak kita akan lelah untuk berpikir (Pastinya), kedua mulut kita akan sangat lelah untuk berbicara. Karena di pair programming, komunikasi dan diskusi memegang peranan penting.
