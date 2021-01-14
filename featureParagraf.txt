@@ -1,0 +1,7 @@
+Untuk mempermudah penjelasannya, pair programming adalah 2 orang duduk bersama, memecahkan masalah yang sama, di meja yang sama, dengan 2 keyboard dan 2 mouse. Poin-poin saya di bawah ini adalah murni pengalaman saya setelah 2 tahun melakukan pair programming karena di KMK 
+anda diwajibkan untuk kerja berpasangan, kecuali memang saat itu anggota tim anda ganjil.
+
+Setiap kali saya mengatakan pair programming sebagai 
+salah satu cara bekerja di KMK, reaksi orang-orang rata-rata mengatakan 
+“Wah, enak dong gak capek”, “Enak ya satunya bisa kerja, satunya bisa istirahat gantian”,”Bukannya boros ya, satu masalah yang ngerjain dua orang”. 
+OK ijinkan saya bahas satu persatu
